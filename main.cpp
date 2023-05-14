@@ -1,3 +1,4 @@
+/* this is s student project*/
 #include <iostream>
 
 using namespace std;
