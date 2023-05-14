@@ -1,4 +1,5 @@
 /* this is s student project*/
+/*author=Sivkova Tatyana, groupe KEz-182, 2023 year*/
 #include <iostream>
 
 using namespace std;
